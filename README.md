@@ -1,2 +1,2 @@
 # R-Projects
-A Repository for all of my R Projects!
+A repository for all of my R projects!
